@@ -29,5 +29,4 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 1. **Clone o Repositório**  
    Abra o terminal e execute o comando:
    
-   git clone https://github.com/FelipePrado200/RocketNotes.git
-   /npm install - npm run dev ou npm start
+   git clone https://github.com/FelipePrado200/RocketNotes.git  após clonar: /npm install - /npm run dev ou /npm start
